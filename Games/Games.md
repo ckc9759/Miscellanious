@@ -21,3 +21,5 @@ Multiplayer Browser Games
 11. transformice
 12. bonk io
 13. outro
+
+<a href="http://example.com/" target="_blank">example</a>

@@ -8,8 +8,8 @@ Multiplayer Browser Games
 
 #### IO GAMES
 
-#### 1. [cardgames.io](https://cardgames.io/)
-#### 2. [little big snake](https://littlebigsnake.com/)
+1. [cardgames.io](https://cardgames.io/)  
+2. [little big snake](https://littlebigsnake.com/)
 
 3. betrayal.io
 4. deep daioh

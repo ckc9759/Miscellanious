@@ -23,3 +23,11 @@ Multiplayer Browser Games
 13. outro
 
 <a href="http://example.com/" target="_blank">example</a>
+
+<body>
+    <h1>Click 
+        <a href="https://www.geeksforgeeks.org/" 
+           target="_blank">here
+        </a> to visit GeeksForGeeks website.
+    </h1>
+</body>

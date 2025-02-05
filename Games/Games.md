@@ -2,12 +2,18 @@
 
 ---
 
-1. cardsgame io
-2. shell shockers
+```py
+Multiplayer Browser Games
+```
+
+#### IO GAMES
+
+#### 1. [cardsgame io](https://cardgames.io/)
+2. [little big snake](https://littlebigsnake.com/)
 3. betrayal.io
 4. deep daioh
 5. slither io
-6. little big snake
+6. shell shockers
 7. slay.one
 8. brain.io
 9. zombs io
